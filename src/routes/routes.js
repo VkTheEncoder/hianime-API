@@ -1,5 +1,5 @@
 import { Hono } from 'hono';
-import documentationController from '../controllers/documentation.controller';
+import documentationController from '../controllers/documentation.controller.js';
 import handler from '../utils/handler';
 
 // controllers
